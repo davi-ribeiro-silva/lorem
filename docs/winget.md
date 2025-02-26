@@ -1,0 +1,3 @@
+# winget
+
+gerenciador

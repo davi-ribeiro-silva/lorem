@@ -1,0 +1,6 @@
+site_name: lorem ipsum
+site_author: Davi Ribeiro
+
+theme:
+  name: material
+  language: pt
